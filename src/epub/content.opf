@@ -54,7 +54,7 @@
 		<dc:source>https://archive.org/details/wolfsolent0000john</dc:source>
 		<!-- Scan, Volume 2 -->
 		<dc:source>https://archive.org/details/wolfsolentnovel00powy</dc:source>
-		<meta property="se:word-count">265628</meta>
+		<meta property="se:word-count">259098</meta>
 		<meta property="se:reading-ease.flesch">71.85</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Wolf_Solent</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-cowper-powys_wolf-solent</meta>
