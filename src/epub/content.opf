@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/john-cowper-powys/wolf-solent</dc:identifier>
 		<dc:date>2025-11-06T02:58:00Z</dc:date>
@@ -40,12 +40,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Powys’s Wessex</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A teacher flees modernity in London and to make a life in his small Dorset hometown.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A teacher flees modernity in London and to make a life in his small Dorset hometown.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Wolf Solent&lt;/i&gt; is the first of four &lt;a href="https://standardebooks.org/collections/powyss-wessex"&gt;Wessex novels&lt;/a&gt; by &lt;a href="https://standardebooks.org/ebooks/john-cowper-powys"&gt;John Cowper Powys&lt;/a&gt;, based on a fictionalized southwest England in the pattern of &lt;a href="https://standardebooks.org/ebooks/thomas-hardy"&gt;Thomas Hardy&lt;/a&gt;. The titular character, after having a mental breakdown, loses his job and travels to the small town of Ramsgard to do literary work for a local squire. There he becomes involved with two women: Gerda who is simple and in tune with nature, and Christie, who is more complex and intellectual.&lt;/p&gt;
 			&lt;p&gt;The novel is very introspective. We watch Wolf’s inner thoughts as he tries to make sense of his secret “mythology” or “life-illusion,” based on his idea of an internal battle of good versus evil. As various buried secrets emerge, some involving his own family, Wolf tries to navigate his relationships and questions his own impulses, feeling that the survival of his “life-illusion” is at stake.&lt;/p&gt;
 			&lt;p&gt;The novel was very well received on publication, and is considered a literary masterpiece despite its curious lack of renown. Author Simon Heffer called &lt;i&gt;Wolf Solent&lt;/i&gt; “the finest novel by an Englishman in the 20th century.”&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!-- Transcription, Volume 1 -->
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20250719</dc:source>
