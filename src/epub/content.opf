@@ -40,7 +40,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Powys’s Wessex</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A teacher flees modernity in London and to make a life in his small Dorset hometown.</dc:abstract>
+		<meta property="schema:abstract">A teacher flees modernity in London and to make a life in his small Dorset hometown.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Wolf Solent&lt;/i&gt; is the first of four &lt;a href="https://standardebooks.org/collections/powyss-wessex"&gt;Wessex novels&lt;/a&gt; by &lt;a href="https://standardebooks.org/ebooks/john-cowper-powys"&gt;John Cowper Powys&lt;/a&gt;, based on a fictionalized southwest England in the pattern of &lt;a href="https://standardebooks.org/ebooks/thomas-hardy"&gt;Thomas Hardy&lt;/a&gt;. The titular character, after having a mental breakdown, loses his job and travels to the small town of Ramsgard to do literary work for a local squire. There he becomes involved with two women: Gerda who is simple and in tune with nature, and Christie, who is more complex and intellectual.&lt;/p&gt;
 			&lt;p&gt;The novel is very introspective. We watch Wolf’s inner thoughts as he tries to make sense of his secret “mythology” or “life-illusion,” based on his idea of an internal battle of good versus evil. As various buried secrets emerge, some involving his own family, Wolf tries to navigate his relationships and questions his own impulses, feeling that the survival of his “life-illusion” is at stake.&lt;/p&gt;
